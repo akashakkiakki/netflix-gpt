@@ -3,7 +3,7 @@
 - Create React app
 - Configured Tailwind Css
 
-
+# rafce - for creating functional component
 
 # Features
 
