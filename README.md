@@ -22,8 +22,9 @@
 - Letflix GPT
     - Search bar
     - Suggestions
-# netflix-gpt
-# netflix-gpt
-# netflix-gpt
-# netflix-gpt
-# netflix-gpt
+
+
+# install redux toolkit
+
+- npm i -D @reduxjs/toolkit
+- npm i react-redux

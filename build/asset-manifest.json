@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.153b7602.css",
+    "main.js": "/static/js/main.e7cfa597.js",
+    "static/js/453.67699da7.chunk.js": "/static/js/453.67699da7.chunk.js",
+    "static/media/background-image.jpg": "/static/media/background-image.7b06264b0155702d9f5f.jpg",
+    "static/media/Netflix_Logo.png": "/static/media/Netflix_Logo.303904f75553a51bbf31.png",
+    "index.html": "/index.html",
+    "main.153b7602.css.map": "/static/css/main.153b7602.css.map",
+    "main.e7cfa597.js.map": "/static/js/main.e7cfa597.js.map",
+    "453.67699da7.chunk.js.map": "/static/js/453.67699da7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153b7602.css",
+    "static/js/main.e7cfa597.js"
+  ]
+}
