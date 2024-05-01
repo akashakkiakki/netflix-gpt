@@ -33,3 +33,8 @@
 
 - npm run build
 - firebase deploy
+
+
+# Memoization
+
+- Memoization is a logic to reduce unnecessary api calls.

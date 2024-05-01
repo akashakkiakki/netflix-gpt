@@ -27,7 +27,6 @@ const GptSearchBar = () => {
     //   messages: [{ role: "user", content: searchText.current.value }],
     //   model: "gpt-3.5-turbo",
     // });
-    // console.log(gptResult.choices);
   };
 
   return (
