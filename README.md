@@ -28,3 +28,8 @@
 
 - npm i -D @reduxjs/toolkit
 - npm i react-redux
+
+# Update firebase app
+
+- npm run build
+- firebase deploy

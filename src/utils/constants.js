@@ -14,3 +14,5 @@ export const SUPPORTED_LANGUAGES = [
   { indetifier: "hi", name: "Hindi" },
   { indetifier: "spanish", name: "Spanish" },
 ];
+
+export const openAiKey = process.env.REACT_APP_OPENAI_KEY;
